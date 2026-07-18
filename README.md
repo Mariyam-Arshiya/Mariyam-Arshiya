@@ -22,33 +22,8 @@
 
 ###
 
-## 💫 About Me
 
-<table align="center" border="0">
-<tr>
-<td width="36%" align="center" valign="middle">
-
-<!-- 🪪 Swinging Lanyard ID Card, pure SVG -->
-<img src="https://raw.githubusercontent.com/Mariyam-Arshiya/Mariyam-Arshiya/main/assets/mariyam-lanyard.svg" alt="Mariyam Arshiya ID badge" width="290"/>
-
-</td>
-<td width="64%" valign="middle">
-
-- 🎓 Pre-final year **CSE undergrad**, building real things while I learn
-- 🌐 Full-Stack Developer — comfortable across the **MERN** stack
-- 🤖 Exploring **Generative AI, RAG pipelines & Agentic AI** systems
-- ⚙️ Into **Intelligent Automation** — making software think a little for itself
-- 🌱 Contributing to beginner-friendly **open-source** projects
-- 📚 Sharpening backend skills — Node.js, databases, REST APIs
-- 🚀 Turning ideas → real, working apps — that's the whole point
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## 🧠 About — Terminal Card
+## 🧠 About Mehh
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Mariyam-Arshiya/Mariyam-Arshiya/main/assets/about-card.svg" alt="Animated terminal about card" width="100%"/>
@@ -59,6 +34,82 @@
 <br>
 
 <div align="center">
+## 💫 Projects
+
+<table align="center" border="0">
+<tr>
+<td width="36%" align="center" valign="middle">
+
+<!-- 🪪 SAME BADGE (unchanged) -->
+<img src="https://raw.githubusercontent.com/Mariyam-Arshiya/Mariyam-Arshiya/main/assets/mariyam-lanyard.svg" alt="Mariyam Arshiya ID badge" width="300"/>
+
+</td>
+<td width="64%" valign="middle">
+
+<table align="center">
+<tr>
+<td>
+
+## 🌸 My Work
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Mariyam-Arshiya/Mariyam-Arshiya/main/assets/mariyam-lanyard.svg" width="220"/>
+
+</p>
+
+<p align="center">
+
+<table>
+<tr>
+<th align="left">🚀 Project</th>
+<th align="left">💻 Tech</th>
+</tr>
+
+<tr>
+<td>🔐 Digital Locker</td>
+<td>
+<img src="https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express"/>
+<img src="https://img.shields.io/badge/React-000?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-000?style=flat-square&logo=node.js"/>
+</td>
+</tr>
+
+<tr>
+<td>📡 RF-Sentry</td>
+<td>
+<img src="https://img.shields.io/badge/Python-000?style=flat-square&logo=python"/>
+<img src="https://img.shields.io/badge/NumPy-000?style=flat-square&logo=numpy"/>
+<img src="https://img.shields.io/badge/SciPy-000?style=flat-square&logo=scipy"/>
+<img src="https://img.shields.io/badge/Matplotlib-000?style=flat-square&logo=plotly"/>
+</td>
+</tr>
+
+<tr>
+<td>🧠 CODEBASE RAG</td>
+<td>
+<img src="https://img.shields.io/badge/Python-000?style=flat-square&logo=python"/>
+<img src="https://img.shields.io/badge/LangChain-000?style=flat-square"/>
+<img src="https://img.shields.io/badge/Streamlit-000?style=flat-square&logo=streamlit"/>
+</td>
+</tr>
+
+<tr>
+<td>🌍 DisasterNet</td>
+<td>
+<img src="https://img.shields.io/badge/React-000?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-000?style=flat-square&logo=node.js"/>
+<img src="https://img.shields.io/badge/Neo4j-000?style=flat-square&logo=neo4j"/>
+<img src="https://img.shields.io/badge/Claude-000?style=flat-square"/>
+</td>
+</tr>
+
+</table>
+
+</p>
+
+
 ## 🛠️ Tech Stack
 
 **Languages**
