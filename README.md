@@ -202,7 +202,7 @@
 ## 📊 GITHUB STATS
 </div>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Mariyam-Arshiya/Mariyam-Arshiya/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="165" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mariyam-Arshiya&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="165" alt="stats graph"/>
   <img src="https://streak-stats.demolab.com/?user=Mariyam-Arshiya&theme=dracula&hide_border=false" height="165" alt="streak stats"/>
 </div>
 
