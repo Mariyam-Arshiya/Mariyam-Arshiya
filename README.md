@@ -17,7 +17,6 @@
 [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:mariyamrpt@gmail.com)
 [![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com/users/lemon_reck)
 [![Dev.to](https://img.shields.io/static/v1?message=Dev.to&logo=devdotto&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge)](https://dev.to/mariyam-arshiya)
-[![Stack Overflow](https://img.shields.io/static/v1?message=Stack%20Overflow&logo=stackoverflow&label=&color=F58025&logoColor=white&labelColor=&style=for-the-badge)](https://stackoverflow.com/users/mariyam-arshiya)
 
 </div>
 
@@ -59,6 +58,7 @@
 
 <br>
 
+<div align="center">
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -136,6 +136,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="38" alt="slack"/>
 
 <br>
+</div>
 
 ## 📊 GitHub Stats
 
