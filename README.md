@@ -28,7 +28,9 @@
   <img src="https://raw.githubusercontent.com/Mariyam-Arshiya/Mariyam-Arshiya/main/assets/about-card.svg" alt="Animated terminal about card" width="100%"/>
 </div>
 
-<sub>A self-looping animated SVG (glow pulse, blinking cursor, scrolling terminal output) — commit `about-card.svg` to `assets/` on `main` and it renders live, same way the snake animation below does.</sub>
+<sub style="display:none;">
+A self-looping animated SVG (glow pulse, blinking cursor, scrolling terminal output) — commit `about-card.svg` to `assets/` on `main` and it renders live, same way the snake animation below does.
+</sub>
 
 <br>
 
