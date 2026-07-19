@@ -33,25 +33,11 @@
 
 <br>
 
-<div align="center">
+
   
-## 💫 Projects
 
-<table align="center" border="0">
-<tr>
-<td width="36%" align="center" valign="middle">
-
-<!-- 🪪 SAME BADGE (unchanged) -->
-<img src="https://raw.githubusercontent.com/Mariyam-Arshiya/Mariyam-Arshiya/main/assets/mariyam-lanyard.svg" alt="Mariyam Arshiya ID badge" width="300"/>
-
-</td>
-<td width="64%" valign="middle">
-
-<table align="center">
-<tr>
-<td>
 <div align="center">
-🌸 My Work
+🌸 PROJECTS
 </div>
 <table align="center">
 <tr>
@@ -120,9 +106,11 @@
 
 <div align="center">
   
-## 🛠️ TECH STACKS
+ 🛠️ TECH STACKS
 </div>
-**Languages**
+<div align="center">
+Languages
+</div>
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" alt="js"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="38" alt="ts"/>&nbsp;
@@ -132,8 +120,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="38" alt="c++"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="38" alt="c#"/>
 
-**Frontend**
-
+<div align="center">
+Frontend
+</div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38" alt="react"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="38" alt="nextjs"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="38" alt="angular"/>&nbsp;
@@ -144,8 +133,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="38" alt="storybook"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="38" alt="figma"/>
 
-**Backend & Frameworks**
-
+<div align="center">
+Backend & Frameworks
+</div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="38" alt="node"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="38" alt="express"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="38" alt="django"/>&nbsp;
@@ -154,8 +144,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="38" alt=".net"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="38" alt="socketio"/>
 
-**Databases**
-
+<div align="center">
+Databases
+</div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="38" alt="mongodb"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38" alt="mysql"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="38" alt="postgres"/>&nbsp;
@@ -165,8 +156,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="38" alt="firebase"/>&nbsp;
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
+<div align="center">
 **AI / ML & Data**
-
+</div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="38" alt="numpy"/>&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
@@ -174,8 +166,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="38" alt="pytorch"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="38" alt="opencv"/>
 
+<div align="center">
 **DevOps, Cloud & Version Control**
-
+</div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="38" alt="docker"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="38" alt="k8s"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="38" alt="aws"/>&nbsp;
@@ -185,8 +178,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="38" alt="github"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="38" alt="gitlab"/>
 
+<div align="center">
 **Tools, Testing & Design**
-
+</div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="38" alt="jest"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="38" alt="eslint"/>&nbsp;
 ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
@@ -200,22 +194,26 @@
 </div>
 
 <div align="center">
-## 📊 GITHUB STATS
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mariyam-Arshiya&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="165" alt="stats graph"/>
-  <img src="https://streak-stats.demolab.com/?user=Mariyam-Arshiya&theme=dracula&hide_border=false" height="165" alt="streak stats"/>
+📊 GITHUB STATS
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Mariyam-Arshiya/Mariyam-Arshiya/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="165" alt="top languages"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Mariyam-Arshiya&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" height="165" alt="trophies"/>
+  <!-- FIXED STATS -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mariyam-Arshiya&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="165"/>
+  
+  <!-- THIS ONE WAS ALREADY WORKING -->
+  <img src="https://streak-stats.demolab.com/?user=Mariyam-Arshiya&theme=dracula" height="165"/>
 </div>
 
-<br>
+<div align="center">
+  <!-- ALSO FIX LANGUAGES -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mariyam-Arshiya&layout=compact&theme=dracula" height="165"/>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=Mariyam-Arshiya&theme=darkhub&no-frame=true&row=1&column=6" height="165"/>
+</div>
 
 <div align="center">
-## 🐍 Contribution Snake
+🐍 Contribution Snake
 </div>
 <div align="center">
 <picture>
@@ -227,8 +225,11 @@
 
 <br>
 
+
 <div align="center">
- 🌐 CONNECT
+
+  🌐 CONNECT
+
 </div>
 <div align="center">
   <a href="https://linkedin.com/in/mariyam-arshiya-0a4ab9300" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="42" alt="linkedin"/></a>
