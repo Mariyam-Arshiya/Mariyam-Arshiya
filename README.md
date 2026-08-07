@@ -24,6 +24,11 @@
 <div align="center">
 <h2>🧠 ABOUT MEhh</h2>
 </div>
+<p align="center">
+  🌐 Portfolio: <a href="https://portfolio-ten-sigma-bag4nfw3l6.vercel.app/" target="_blank">
+  https://portfolio-ten-sigma-bag4nfw3l6.vercel.app/
+  </a>
+</p>
 <div align="center">
   <img src="https://raw.githubusercontent.com/Mariyam-Arshiya/Mariyam-Arshiya/main/assets/about-card.svg" alt="Animated terminal about card" width="100%"/>
 </div>
